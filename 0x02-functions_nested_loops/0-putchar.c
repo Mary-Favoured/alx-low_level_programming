@@ -4,7 +4,7 @@
 * write a program that prints putchar, followed by a new line.
 * Return: Always (Success)
 */
-int main(void)
+int main(void);
 {
 	char *ch = "_putchar";
 
