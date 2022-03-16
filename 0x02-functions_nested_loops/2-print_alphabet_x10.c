@@ -4,7 +4,7 @@
 *
 *Return: Always 0.
 */
-int main(void) print_alphabet_x10;
+void print_alphabet_x10(void);
 {
 	int j, i;
 
@@ -12,9 +12,9 @@ int main(void) print_alphabet_x10;
 	{
 		for (i = 'a'; i <= 'z'; i++)
 		{
-			putchar(i);
+		  _putchar(i);
 		}
-		putchar('\n');
+		_putchar('\n');
 	}
 	return (0);
 }
