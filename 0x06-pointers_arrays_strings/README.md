@@ -1,1 +1,3 @@
-More pointers, arrays and strings
+more on strings, pointers and arrays...happy coding
+
+
